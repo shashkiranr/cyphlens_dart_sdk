@@ -22,10 +22,10 @@ For more information, see [Set Up Your Flutter Project](https://flutter.dev).
 
 ## Quickstart
 
-For more information, see [Cyphlens Node.js SDK Quickstart](https://cyphlens.com/docs/sdk-reference.html#configuration).
+For more information, see [Cyphlens Dart SDK Quickstart](https://cyphlens.com/docs/sdk-reference.html#configuration).
 
 ## Usage
-For more information, see [Using the Cyphlens Node.js SDK](https://cyphlens.com/docs/sdk-reference.htm).
+For more information, see [Using the Cyphlens Dart SDK](https://cyphlens.com/docs/sdk-reference.htm).
 
 ## Tests
 
